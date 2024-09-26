@@ -1,0 +1,14 @@
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: #8d01b8;
+    --branco: #8d01b8;
+    --laranja: #EB9B00;
+    --azul-degrade: linear-gradient(97.54deg, #855b00 35.49%, #c06006 165.37%);
+    }
+body {
+   background-color: var(--cor-de-fundo);
+    }
+h1 {
+    background-color: #8d01b8;
+    color: white;
+    }
